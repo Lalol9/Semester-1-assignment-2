@@ -4,4 +4,10 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
+}
+
+main {
+  width: 80vw;
+  padding: var(--spacing-md);
 }

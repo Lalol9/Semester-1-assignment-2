@@ -8,6 +8,6 @@ body {
 }
 
 main {
-  width: 80vw;
-  padding: var(--spacing-md);
+  width: 90vw;
+  padding: var(--spacing-lg) 0;
 }

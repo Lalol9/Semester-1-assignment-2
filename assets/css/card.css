@@ -1,4 +1,6 @@
 .card-container {
+  width: 90vw;
+  max-width: 2680px;
   display: grid;
   justify-content: center;
   grid-template-columns: repeat(auto-fill, 280px);

@@ -9,5 +9,7 @@ body {
 
 main {
   width: 90vw;
-  padding: var(--spacing-lg) 0;
+  padding: var(--spacing-3xl) 0;
+  display: flex;
+  justify-content: space-evenly;
 }

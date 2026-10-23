@@ -27,15 +27,11 @@
 
 .card__facts {
   width: 170px;
-  /* display: flex;
-  flex-direction: column; */
 }
 .card__facts dt {
   display: inline;
 }
 .card__facts dd {
-  /* width: 100px; */
-  /* display: inline; */
   text-align: right;
 }
 

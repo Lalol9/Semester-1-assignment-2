@@ -17,4 +17,5 @@ footer {
 
 .footer__text {
   font-size: var(--text-size-lg);
+  text-align: center;
 }
